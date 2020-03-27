@@ -1,20 +1,20 @@
 # n95shields
 
+** WELCOME!
 
-Hello and thank you for helping. SOme things we don't have time for right now, but woudl love some help
-Build out a readme
-How to guide for new makers
-Tips and setting for various printer settings
-* Please contact via Facebook page
-
-
-The files in this folrder are the latest design
-Version XXXX subfolder hold previous versions in case someone wants an older one
-The folders GLB Format, GLTF Format, OBJ Format are for formats that require more than one files
-
-There is a file for Prusa MK3S printers and ABS
-The PPT is a series of screen captures from my Pruse settings
+Please support us via GoFundMe: gf.me/u/xsc93y
 
 Thank you and stay safe.
 
-Please support us via GoFundMe: gf.me/u/xsc93y
+
+** HOW TO GET STARTED
+
+** TIPS AND SETTINGS FOR VARIOUS PRINTERS AND MATERIALS
+There is a file for Prusa MK3S printers and ABS
+The PPT is a series of screen captures from my Pruse settings
+
+** FACEBOOK PAGE
+
+** FILES
+The files in this repository are the latest design.  Previous designs are stored in their respective version number folder.
+The folders GLB Format, GLTF Format, OBJ Format are for formats that require more than one file and subsequently are stored in separate folders when created.
